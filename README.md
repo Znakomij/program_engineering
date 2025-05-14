@@ -1,4 +1,4 @@
-[![Tests](https://github.com/tokarevsas31/ml_fastapi_tests/actions/workflows/python-app.yml/badge.svg)](https://github.com/tokarevsas31/ml_fastapi_tests/actions/workflows/python-app.yml)
+[![Tests](https://github.com/Znakomij/program_engineering/blob/main/.github/workflows/python-app.yml/badge.svg)](https://github.com/Znakomij/program_engineering/blob/main/.github/workflows/python-app.yml)
 
 # An example of ML Application with the pretrained model and test.
 
